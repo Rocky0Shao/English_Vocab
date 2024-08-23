@@ -77,6 +77,17 @@ vocab_list = {
     "disparate":"不同的",
     "interchangeable":"可互换的",
     "descend":"下降, 繁衍",
+    "contamnated":"被污染的",
+    "shoots":"芽",
+    "by no means":"绝不是",
+    "Mesopotamian":"美索不达米亚",
+    "tenuous":"脆弱的",
+    "nuanced":"细致入微的",
+    "obtrusive":"突兀的",
+    "concealed":"暗的, 隐蔽的",
+    "peripheral":"周边的, 肤浅的"
+
+    
 
     
 
@@ -92,17 +103,21 @@ Grammer_lsit = {
 Math = {
 
     '''
-    Prism: 棱柱
+    % o Prism: 棱柱
 
-    positive difference between the ranges of number:
-        num_a = range_a_max - range_a_min
-        num_b = range_b_max - range_b_min
-        output = num_a - num_b
+    % o positive difference between the ranges of number:
+            num_a = range_a_max - range_a_min
+            num_b = range_b_max - range_b_min
+            output = num_a - num_b
 
-    value start at 100, 1 year later the value is 80
+    %o value start at 100, 1 year later the value is 80
         the value DECREASED BY 20% of its value the preceding year
 
-    b^2 -4ac >= 0, quadratic function have real solution
+    %o b^2 -4ac >= 0, quadratic function have real solution
+
+    %o by how many a person is expected to win -> total_he_got - total_opponent got
+
+    %o check what the question is asking, every single word matters
     '''
 }
 
