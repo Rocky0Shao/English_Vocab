@@ -64,15 +64,28 @@ vocab_list = {
     "colon":":",
     "germination":"发芽",
     "quota":"配额",
-
-
+    "perceive":"感知，察觉",
+    "conform to":"符合",
+    "carefree":"畅快的",
+    "jingle":"叮当响",
+    "reimagines":"re-imagines",
+    "prominently":"突出的",
+    "engulf":"吞没",
+    "comprise":"包括",
+    "provoke":"挑衅, 惹",
+    "csomplementary":"补充",
+    "disparate":"不同的",
+    "interchangeable":"可互换的",
+    "descend":"下降, 繁衍",
 
     
 
 }
 
 Grammer_lsit = { 
-    1: "No puctuation between title and the person's name"
+    1: "No puctuation between title and the person's name",
+    2:"that of ...., ..., 'that of' referese to property of a noun",
+    
 }
 
 
@@ -85,6 +98,11 @@ Math = {
         num_a = range_a_max - range_a_min
         num_b = range_b_max - range_b_min
         output = num_a - num_b
+
+    value start at 100, 1 year later the value is 80
+        the value DECREASED BY 20% of its value the preceding year
+
+    b^2 -4ac >= 0, quadratic function have real solution
     '''
 }
 
