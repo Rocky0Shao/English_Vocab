@@ -122,7 +122,36 @@ vocab_list = {
     "adversary":"n. 对手, 敌手",
     "confidential":"机密的",
     "toutine":"n. 常规, 例行",
-    "contrive":"图谋, 做作的, 瞎造"
+    "contrive":"图谋, 做作的, 瞎造",
+    "deceptive":"欺骗性的",
+    "stimuli":"刺激",
+    "innocuous":"无害的",
+    "benign":"良性的",
+    "the reign of a monarch":"在君主的统治之下",
+    "legitimacy":"合法性",
+    "corollary ":"推论的",
+    "disengage":"脱离",
+    "buttress":"支持",
+    "reciprocate":"往复, 往返, 往来, 报答",
+    "tranquilly":"平静的",
+    "ever":"frequently, at any time, ",
+    "anon":"匿名地, 不久立刻地", 
+    "ponder":"思考", 
+    "conjecture":"猜想",
+    "agitation":"搅动",
+    "Nevertheless":"尽管如此, (表转折)",
+    "garment":"costume",
+    "tailor":"裁缝",
+    "ungainliness":"un-gain-li-ness, n.怪样子, 丑陋",
+    "fetish":"恋物癖",
+    "relic":"遗迹",
+    "meticulously":"精心的",
+    "profound":"深刻的",
+    "revelation":"启示录",
+    "delicate":"精美的",
+    "intrinsic":"固有的",
+    
+
     
 
 
