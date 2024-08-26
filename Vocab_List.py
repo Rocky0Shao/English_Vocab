@@ -122,7 +122,7 @@ vocab_list = {
     "adversary":"n. 对手, 敌手",
     "confidential":"机密的",
     "toutine":"n. 常规, 例行",
-    
+    "contrive":"图谋, 做作的, 瞎造"
     
 
 
