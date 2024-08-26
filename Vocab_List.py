@@ -85,7 +85,47 @@ vocab_list = {
     "nuanced":"细致入微的",
     "obtrusive":"突兀的",
     "concealed":"暗的, 隐蔽的",
-    "peripheral":"周边的, 肤浅的"
+    "peripheral":"周边的, 肤浅的",
+    "prudent":"谨慎的",
+    "overt":"公开的",
+    "cordial":"亲切的",
+    "advert":"v. 注意到",
+    "deliberately":"故意的，有意的",
+    "sanction":"制裁",
+    "ameliorate":"改善",
+    "rationalize":"v. 合理化",
+    "postulate":"v. 假定 / 要求",
+    "antagonistic":"敌对的",
+    "imitate":"模仿",
+    "inconsequential":"无关紧要的",
+    "undermine":"破坏, 削弱",
+    "be obliged to do sth":"有义务做...",
+    "sb proving false to the contract":"sb 违反合同",
+    "upon a pinch":"在紧要关头",
+    "to have envinced":"以表明",
+    "thwart in ..":"在... 中受阻",
+    "be susceptible":"易受... 影响",
+    "a singular patience and mildness":"非凡的耐心和温和",
+    "be taken advantage of":"被利用",
+    "attribute A to B":"将 A 归因于 B",
+    "ambivalence":"矛盾心理",
+    "merit":"优点",
+    "discriminate":"区别, 鉴别",
+    "discriminate against":"歧视...",
+    "derivative":"衍生物, 导数",
+    "unintelligible":"难以理解的",
+    "contempt":"鄙视",
+    "genuie":"真的, 真诚的",
+    "disdain":"蔑视",
+    "crutacean":"甲克类动物",
+    "disclosure":"n. 泄露, 披露",
+    "adversary":"n. 对手, 敌手",
+    "confidential":"机密的",
+    "toutine":"n. 常规, 例行",
+    
+    
+
+
 
     
 
