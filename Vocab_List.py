@@ -150,7 +150,24 @@ vocab_list = {
     "revelation":"启示录",
     "delicate":"精美的",
     "intrinsic":"固有的",
+    "resolute":"坚决的",
+    "adversity":"逆境",
+    "ungainly":"笨拙地",
+    "fastidious":"挑剔的, 考究的",
+    "albatross":"信天翁",
+    "boluse":"药丸",
+    "engrossed":"全神贯注的",
+    "styrofoam":"塑料泡沫",
+    "permeat":"渗透",
+    "artifact":"文物",
+    "dissect":"解剖",
+    "muck":"淤泥",
+    "albeit":"甚至",
+    "decipher":"破译",
+    "mundane":"平凡的",
     
+
+
 
     
 
