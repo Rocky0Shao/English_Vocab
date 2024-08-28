@@ -221,7 +221,15 @@ vocab_list = {
     "cooroborate":"证实",
     "confound":"使...惊讶/搅乱，混淆",
     "disseminate":"传播",
-    
+    "ameliorate":"改善",
+    "impede":"阻碍",
+    "maritime":"海上的",
+    "endearing":"讨人喜欢的",
+    "becoming acquanted with sb":"认识某人",
+    "confiscate":"没收, 征用",
+    "fasten":"紧固",
+    "harrowing":"令人痛心",
+
 
     
 
