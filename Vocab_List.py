@@ -165,6 +165,22 @@ vocab_list = {
     "albeit":"甚至",
     "decipher":"破译",
     "mundane":"平凡的",
+    "embark on a journey":"踏上旅途",
+    "capsule":"胶囊",
+    "flamboyant":"华丽的",
+    "audacious":"大胆的, 鲁莽的",
+    "captivating":"迷人的",
+    "flaunt":"炫耀",
+    "persona":"角色",
+    "cerulean ":"天蓝色的",
+    "radiant":"发光的",
+    "descend":"下降",
+    "dainty":"纤巧的",
+    "molt":"蜕皮",
+    "fledgling ":"雏鸟",
+    "I began to molt into a new skin with fledgling wings.":"",
+    "crusade ":"圣战, 运动",
+    
     
 
 
