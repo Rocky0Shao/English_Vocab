@@ -205,7 +205,23 @@ vocab_list = {
     "revered":"受人尊敬的",
     "obscure":"朦胧的",
     "precarious":"不稳定的, 岌岌可危的",
-    "squander":"挥霍, 浪费"
+    "squander":"挥霍, 浪费",
+    "approbation":"赞许",
+    "discourse":"话语, 论述",
+    "conform":"符合",
+    "exaggerated":"夸大的, 夸张的",
+    "recomend him to a yet higher notice":"向上级推荐他",
+    "dimwitted":"笨的",
+    "metropolis":"大城市",
+    "render services":"提供服务",
+    "rendered necessary by ...":"因...成为必要",
+    "entrust to ...":"委托给...(某人)",
+    "tact":"机智",
+    "fondly":"怜爱地/盲目轻信地",
+    "cooroborate":"证实",
+    "confound":"使...惊讶/搅乱，混淆",
+    "disseminate":"传播",
+    
 
     
 
