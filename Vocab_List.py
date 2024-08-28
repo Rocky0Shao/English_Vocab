@@ -182,7 +182,31 @@ vocab_list = {
     "crusade ":"圣战, 运动",
     "merit":"优点",
     "jarring":"刺耳的",
-    
+    "epitomize":"概括",
+    "transcend":"超越",
+    "cognitive":"认知上的",
+    "aversion":"厌恶",
+    "caveat":"警告",
+    "consense":"共识",
+    "undermine":"破坏",
+    "plausible":"合理的",
+    "compelling":"引人注目的",
+    "extrapolate":"推断",
+    "preliminary":"初步的",
+    "depict":"描绘",
+    "bust":"半身像",
+    "acquaintance":"熟人",
+    "be faithful to ":"忠实于",
+    "complement":"补充",
+    "violent":"暴力的",
+    "mundane":"平凡的",
+    "intricate":"错综复杂的",
+    "fleeting":"转瞬即逝的",
+    "revered":"受人尊敬的",
+    "obscure":"朦胧的",
+    "precarious":"不稳定的, 岌岌可危的",
+    "squander":"挥霍, 浪费"
+
     
 
 
