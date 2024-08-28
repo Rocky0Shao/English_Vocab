@@ -180,6 +180,8 @@ vocab_list = {
     "fledgling ":"雏鸟",
     "I began to molt into a new skin with fledgling wings.":"",
     "crusade ":"圣战, 运动",
+    "merit":"优点",
+    "jarring":"刺耳的",
     
     
 
