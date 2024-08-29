@@ -229,6 +229,45 @@ vocab_list = {
     "confiscate":"没收, 征用",
     "fasten":"紧固",
     "harrowing":"令人痛心",
+    "gratify":"满足",
+    "overlook":"忽略",
+    "quarrel":"争吵",
+    "remorse ":"悔恨",
+    "vengeance ":"n. 复仇",
+    "repulse ":"击退",
+    "scorn":"蔑视",
+    "Antecedent":"前因",
+    "grief":"悲伤",
+    "conceive":"设想",
+    "allocate":"分配",
+    "discernible":"可辨别的",
+    "parasite":"寄生虫",
+    "influx":"涌入",
+    "spacial":"空间上的",
+    "diffuse":"扩散",
+    "feasible":"可行的, 可能的",
+    "plausible":"合理的",
+    "divulge":"泄露",
+    "archbishop":"大主教",
+    "capacious":"宽敞的",
+    "dome":"圆顶",
+    "confidence":"1. 自信  2:秘密 ",
+    "disheveled":"衣冠不整的",
+    "overshadow ..":"to be more important than...",
+    "forfeiture of ...":"没收...",
+    "compliance with ...":"遵守...",
+    "subsumed in ...":"纳入...",
+    "protagonist":"主角",
+    "a grave person":"一个严肃的人",
+    "savant":"学者",
+    "coxcombical":"浮夸的",
+    "ribbon ":"丝带",
+    "lapel":"翻领",
+    
+
+
+
+
 
 
     
