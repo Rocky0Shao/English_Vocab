@@ -273,6 +273,12 @@ vocab_list = {
     "foreman":"领班",
     "juxtapose":"并置, 对比",
     "fortify":"强化",
+    "apostrophe":"撇号, ' ",
+    "clause":"条文",
+    "subordinate":"下属",
+    "preposition":"介词",
+    "subject":"主体, 科目",
+    "zesty":"热情洋溢的",
     
 
 
