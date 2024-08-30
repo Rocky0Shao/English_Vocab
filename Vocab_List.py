@@ -263,6 +263,16 @@ vocab_list = {
     "coxcombical":"浮夸的",
     "ribbon ":"丝带",
     "lapel":"翻领",
+    "furtive":"鬼鬼祟祟",
+    "vigilance ":"警觉",
+    "exacerbate":"加剧",
+    "reimburse":"补偿, 退款",
+    "That said":"尽管如此, 表转折",
+    "Granted":"的确, admittedly",
+    "diminish":"减少",
+    "foreman":"领班",
+    "juxtapose":"并置, 对比",
+    "fortify":"强化",
     
 
 
