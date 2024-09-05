@@ -279,8 +279,15 @@ vocab_list = {
     "preposition":"介词",
     "subject":"主体, 科目",
     "zesty":"热情洋溢的",
+    "unanimous":"一致",
+    "tenous":"脆弱的",
+    "bribe":"贿赂",
+    "trot":"小跑",
+    "tindle":"叮当",
+    "bladder":"膀胱",
+    "mantra":"咒语",
+    "perverse":"反常的",
     
-
 
 
 
