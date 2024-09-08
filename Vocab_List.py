@@ -287,9 +287,16 @@ vocab_list = {
     "bladder":"膀胱",
     "mantra":"咒语",
     "perverse":"反常的",
+    "realm":"领域",
+    "delusion":"妄想",
+    "carnivore":"食肉动物",
+    "stipend":"津贴，助学金",
+    "candid":"坦率的",
+    "herd mentality":"从众心理",
+    "vandalize":"故意破坏",
+    "prevalent":"流行的",
+    "rampant":"猖獗",
     
-
-
 
 
 
